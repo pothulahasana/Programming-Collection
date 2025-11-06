@@ -1,0 +1,3 @@
+# Graph
+graph = {}
+print(graph)
